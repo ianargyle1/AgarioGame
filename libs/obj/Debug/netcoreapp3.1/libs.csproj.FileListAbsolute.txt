@@ -1,0 +1,8 @@
+C:\Users\Ian\Documents\Portfolio\projects\Agario\libs\bin\Debug\netcoreapp3.1\libs.deps.json
+C:\Users\Ian\Documents\Portfolio\projects\Agario\libs\bin\Debug\netcoreapp3.1\libs.dll
+C:\Users\Ian\Documents\Portfolio\projects\Agario\libs\bin\Debug\netcoreapp3.1\libs.pdb
+C:\Users\Ian\Documents\Portfolio\projects\Agario\libs\obj\Debug\netcoreapp3.1\libs.csprojAssemblyReference.cache
+C:\Users\Ian\Documents\Portfolio\projects\Agario\libs\obj\Debug\netcoreapp3.1\libs.AssemblyInfoInputs.cache
+C:\Users\Ian\Documents\Portfolio\projects\Agario\libs\obj\Debug\netcoreapp3.1\libs.AssemblyInfo.cs
+C:\Users\Ian\Documents\Portfolio\projects\Agario\libs\obj\Debug\netcoreapp3.1\libs.dll
+C:\Users\Ian\Documents\Portfolio\projects\Agario\libs\obj\Debug\netcoreapp3.1\libs.pdb
