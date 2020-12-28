@@ -1,7 +1,7 @@
 # AgarioGame
 
 ## About the Project
-This is C# .NET clone of Agario (see original [here](https://agar.io/)) created for CS3500 (Software Practice I) at the University of Utah. If you are unframiliar with Agario, here's a quick description: A bunch of "food" (small circles)  occupy a rectangular space. A bunch of players (larger circles) move through the space.  Anytime a (somewhat) bigger circle significantly overlaps a smaller circle, the smaller circle is eaten and the size of the bigger cube goes up appropriately. Further, big circle can "split" in half, projecting part of themselves "forward"; this is usually done to ensnare smaller circles. Note: smaller circles move faster than bigger circles.
+This is C# .NET clone of Agario (see original [here](https://agar.io/)) created for CS3500 (Software Practice I) at the University of Utah. If you are unframiliar with Agario, here's a quick description: A bunch of "food" (small circles)  occupy a rectangular space. A bunch of players (larger circles) move through the space. Anytime a (somewhat) bigger circle significantly overlaps a smaller circle, the smaller circle is eaten and the size of the bigger circle goes up appropriately. Further, big circle can "split" in half, projecting part of themselves "forward"; this is usually done to ensnare smaller circles. Note: smaller circles move faster than bigger circles.
 NOTE: I did not write the server code, students are only responsible for the client side code, which I wrote in it's entirity.
 
 ## Installation
